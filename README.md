@@ -40,4 +40,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viradhanus&layout=compact" alt="viradhanus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viradhanus&show_icons=true" alt="viradhanus" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viradhanus&include_all_commits=true&show_icons=true" /></p>
