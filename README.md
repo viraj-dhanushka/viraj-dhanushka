@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=viradhanus&color=0C71E0)
+
 <h1 align="center">Hi 👋, I'm Viraj Dhanushka</h1>
 <h3 align="center">A passionate open source developer from Sri Lanka</h3>
 
