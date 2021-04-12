@@ -42,4 +42,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viradhanus&layout=compact" alt="viradhanus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viradhanus&include_all_commits=true&show_icons=true" /></p>
+
+
+[![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=viradhanus&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/viradhanus/github-readme-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viradhanus&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/viradhanus/github-readme-streak-stats)
