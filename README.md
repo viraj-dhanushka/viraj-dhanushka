@@ -40,8 +40,6 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viradhanus&layout=compact" alt="viradhanus" /></p>
-
 
 
 [![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=viradhanus&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/viradhanus/github-readme-stats) 
