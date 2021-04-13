@@ -42,5 +42,5 @@
 
 
 
-[![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=viradhanus&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/viradhanus/github-readme-stats) 
+[![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=viradhanus&count_private=true&show_icons=true&&include_all_commits=true&theme=highcontrast)](https://github.com/viradhanus/github-readme-stats) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viradhanus&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/viradhanus/github-readme-streak-stats)
