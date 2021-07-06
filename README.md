@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Viraj Dhanushka</h1>
 <h3 align="center">A passionate open source developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **Docker**
 
 - 📝 I write articles on [https://medium.com/@smviraj](https://medium.com/@smviraj) whenever I'm free. 
 
-- 💬 Ask me about **flutter, dart, react-native, android, java**
+- 💬 Ask me about **Python, Flutter, Dart, React-Native, Java**
 
 - ⚡ Fun fact **I can code 16 hours a day** 😀 
 
