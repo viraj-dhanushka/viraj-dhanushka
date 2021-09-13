@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Viraj Dhanushka</h1>
 <h3 align="center">A passionate open source developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Agile/Scrum**
 
 - 📝 I write articles on [https://medium.com/@smviraj](https://medium.com/@smviraj) whenever I'm free. 
 
