@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Viraj Dhanushka</h1>
 <h3 align="center">A passionate open source developer from Sri Lanka</h3>
 
-- 🌱 Find about me more on [my portfolio](https://virajdhanushka.netlify.app/)
+- 🌱 Find about me more on [my portfolio](https://virajdhanushka.netlify.app/).
 
 - 📝 I write articles on [https://medium.com/@smviraj](https://medium.com/@smviraj) whenever I'm free. 
 
