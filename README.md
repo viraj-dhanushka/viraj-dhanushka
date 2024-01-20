@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=viradhanus&color=0C71E0)
+![](https://komarev.com/ghpvc/?username=viraj-dhanushka&color=0C71E0)
 
 <h1 align="center">Hi 👋, I'm Viraj Dhanushka</h1>
 <h3 align="center">A passionate open source developer from Sri Lanka</h3>
@@ -16,7 +16,7 @@
 ### Get closer by connecting me on other platforms
 
 <p align="left">
-<a href="https://www.linkedin.com/in/virajdhanushka/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="viradhanus" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/virajdhanushka/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="viraj-dhanushka" height="30" width="30" /></a>
 <a href="https://medium.com/@smviraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@smviraj" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/11431672/viraj-dhanushka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="viraj-dhanushka" height="30" width="30" /></a>
 <a href="https://www.facebook.com/profile.php?id=100001381124062" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="virajdhanushka" height="30" width="30" /></a>
@@ -45,5 +45,5 @@
 
 
 
-[![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=viradhanus&count_private=true&show_icons=true&&include_all_commits=true&theme=highcontrast)](https://github.com/viradhanus/github-readme-stats) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viradhanus&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/viradhanus/github-readme-streak-stats)
+[![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=viraj-dhanushka&count_private=true&show_icons=true&&include_all_commits=true&theme=highcontrast)](https://github.com/viraj-dhanushka/github-readme-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viraj-dhanushka&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/viraj-dhanushka/github-readme-streak-stats)
